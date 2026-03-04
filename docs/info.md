@@ -9,12 +9,12 @@ You can also include images in this folder and reference them in the markdown. E
 
 ## How it works
 
-Explain how your project works
+The inputs are taken from 8 switches, are put through a series of AND and NOT gates, and turn on all the LEDs on the output. The LEDs will light up only if both the switches 6 and 7 are flipped on.
 
 ## How to test
 
-Explain how to use your project
+To test you simply have to turn on the switches 6 and 7 and see the LED turn on, any other switch won't have an effect and both 6 and 7 need to be turned on for the LEDs to be lit up.
 
 ## External hardware
 
-List external hardware used in your project (e.g. PMOD, LED display, etc), if any
+Seven segment LED device
